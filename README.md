@@ -4,7 +4,7 @@
 <br /> 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/CharlesWong/vaccine-bot/assets/email_notifications.png"/>
+ ![Email Notification Example](https://github.com/CharlesWong/vaccine-bot/assets/email_notifications.png")
 </p>
 
 ## Features
