@@ -82,5 +82,3 @@ The App request the `urlToCheck` every `checkingFrequency` and if any of the `pa
 
 * To update the "Working OK" email notification frequency, you can change the variable `checkingNumberBeforeWorkingOKEmail`. By default it is set to 1440 (the number of minutes a day has)
 
-
->>>>>>> 623b4752bd170ac8fc4a884bd3f509ead36b022e
