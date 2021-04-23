@@ -3,6 +3,10 @@
 <h3 align="center"> A deamon in Node.js to monitor availability on vaccine websites</h3>
 <br /> 
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/CharlesWong/vaccine-bot/assets/email_notifications.png"/>
+</p>
+
 ## Features
 
 *  Support customized vaccine web sites
